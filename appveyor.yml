@@ -1,6 +1,7 @@
 image: ubuntu
 
 install:
+- echo "installing hello_word"
 - make
 
 test: off
