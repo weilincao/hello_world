@@ -1,8 +1,8 @@
 image: ubuntu
 
 install:
- - echo "installing hello_word"
- - make
+- echo "installing hello_word"
+- make
 
 build: off
 
