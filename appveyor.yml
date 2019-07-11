@@ -4,4 +4,6 @@ install:
 - echo "installing hello_word"
 - make
 
+build: off
+
 test: off
