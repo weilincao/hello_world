@@ -1,0 +1,6 @@
+image: ubuntu
+
+install:
+- make
+
+test: off
